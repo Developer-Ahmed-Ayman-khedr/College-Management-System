@@ -4,7 +4,7 @@ Embedded Systems Course at AMIT.
 By:
 Ahmed Ayman Khedr.
 This is the C Final project:
-It is a College Managenet System:
+It is a College Managemet System:
 It contains:
 1. Add student data.
 2. Get used size in the Database.
