@@ -26,41 +26,33 @@ Things you can do with this system
 
 ## Screenshots 🖼️
 
-### 01. User Management Panel
+### 01. Choice Panel
 
-![Library-Management-System-1.png](https://i.postimg.cc/bJxT2LhJ/Library-Management-System-1.png)
+![College-Management-System-1.png](https://github.com/Developer-Ahmed-Ayman-khedr/College-Management-System/blob/master/Screenshots/Screenshot%202024-06-17%20195632.png)
 
-### 02. Book Management Panel
+### 02. Add Entery Panel
 
-![Library-Management-System-2.png](https://i.postimg.cc/j2rRMxmc/Library-Management-System-2.png)
+![College-Management-System-2.png](https://github.com/Developer-Ahmed-Ayman-khedr/College-Management-System/blob/master/Screenshots/Screenshot%202024-06-17%20195816.png)
 
-### 03. List Book Rentals
+### 03. Used size Panel
 
-![Library-Management-System-3.png](https://i.postimg.cc/g05y0spR/Library-Management-System-3.png)
+![College-Management-System-3.png](https://github.com/Developer-Ahmed-Ayman-khedr/College-Management-System/blob/master/Screenshots/Screenshot%202024-06-17%20195853.png)
 
-### 04. Search Record
+### 04. Read Student's data Panel
 
-![Library-Management-System-4.png](https://i.postimg.cc/yddh1G27/Library-Management-System-4.png)
+![College-Management-System-4.png](https://github.com/Developer-Ahmed-Ayman-khedr/College-Management-System/blob/master/Screenshots/Screenshot%202024-06-17%20195931.png)
 
-### 05. Record Modification
+### 05. Get list of all Student IDs Panel
 
-![Library-Management-System-5.png](https://i.postimg.cc/ZK3Qz9rV/Library-Management-System-5.png)
+![College-Management-System-5.png](https://github.com/Developer-Ahmed-Ayman-khedr/College-Management-System/blob/master/Screenshots/Screenshot%202024-06-17%20200005.png)
 
-### 06. New Book Record
+### 06. Check if ID exists Panel
 
-![Library-Management-System-6.png](https://i.postimg.cc/SsJZTjSL/Library-Management-System-6.png)
+![College-Management-System-6.png](https://github.com/Developer-Ahmed-Ayman-khedr/College-Management-System/blob/master/Screenshots/Screenshot%202024-06-17%20200032.png)
 
-### 07. List Book Record
+### 07. Delete student data Panel
 
-![Library-Management-System-7.png](https://i.postimg.cc/zffpv3gm/Library-Management-System-7.png)
-
-### 08. List User Record
-
-![Library-Management-System-8.png](https://i.postimg.cc/R0bdH97W/Library-Management-System-8.png)
-
-### 09. End-Screen
-
-![Library-Management-System-9.png](https://i.postimg.cc/Z5bxs0j9/Library-Management-System-9.png)
+![College-Management-System-7.png](https://github.com/Developer-Ahmed-Ayman-khedr/College-Management-System/blob/master/Screenshots/Screenshot%202024-06-17%20200102.png)
 
 ## Support
 
