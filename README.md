@@ -4,16 +4,17 @@
 
 ## Description
 
-The concept of storing or recording the details of user's data within a system is known as College Management System. It details the list of the students. The person can perform many operations like adding the student details, removing the students , displaying the student details etc. Access the code files [here](https://github.com/Developer-Ahmed-Ayman-khedr/C-Final-Project "College Management System").
+The concept of storing or recording the details of user's data within a system is known as College Management System. It details the list of the students. The person can perform many operations like adding the student details, removing the students , displaying the student details etc. Access the code files [here](https://github.com/Developer-Ahmed-Ayman-khedr/College-Management-System "College Management System").
 
 Things you can do with this system
 
+
 - Adding student data
+- Get used size in the Database
+- Read a student's data
+- Listing all student's IDs
 - Check if the student's ID exists
 - Delete student data
-- Renting Books
-- Listing all student's IDs
-- Get used size in the Database.
 
 ## Requirements for using it
 
